@@ -2,4 +2,4 @@
 
 # GIT Local
 
-cambios realizados en local
+cambios realizados en GitHub
