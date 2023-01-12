@@ -1,5 +1,5 @@
 # ejercicio-github
 
-# GIT Local
+# GitHub
 
 cambios realizados en GitHub
